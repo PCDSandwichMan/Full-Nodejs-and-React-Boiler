@@ -1,0 +1,8 @@
+{
+  "short_name": "Everything DND",
+  "name": "Everything DND", 
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
